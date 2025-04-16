@@ -1,0 +1,18 @@
+
+
+Minesweeper – Python Edition (Tkinter GUI)
+
+- 🎮 Gameplay: A grid-based puzzle where players uncover safe cells while avoiding hidden mines.  
+- 🧠 Goal: Reveal all non-mine cells without triggering any mines.  
+- 🖱️ Controls:  
+  - Left-click to reveal a cell  
+  - Right-click to flag/unflag a suspected mine  
+- 💣 Mines: Randomly placed throughout the grid at the start of each game.  
+- 🔢 Hints: Revealed cells show the number of adjacent mines to guide the player.  
+- 🏁 Winning Condition: All non-mine cells are revealed.  
+- ❌ Losing Condition: Clicking on a mine ends the game.  
+- 🔁 Automatic Restart: After a win or loss, the game resets with a new mine layout.  
+- 🛠️ Tech Used: Python, Tkinter (for GUI), OOP structure for maintainable logic.  
+- 🧩 Difficulty: Adjustable via number of rows, columns, and mines.
+
+Perfect for learning basic game logic, GUI programming, and object-oriented design in Python!
